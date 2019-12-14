@@ -4,7 +4,7 @@
 
 run `composer require smartman/laravel-seb`
 
-#Configuration
+# Configuration
 
 run `php artisan vendor:publish` which copies seb.php config file to your config folder. Update values there with your bank provided details.
 
